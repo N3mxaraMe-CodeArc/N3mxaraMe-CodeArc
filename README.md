@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimsara Jayathilaka</h1>
 <h3 align="center">A passionate Full Stack developer in Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3mxarame-codearc&label=Profile%20views&color=0e75b6&style=flat" alt="n3mxarame-codearc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3mxarame-codearc&200K&color=0e75b6&style=flat" alt="n3mxarame-codearc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxarame-codearc" alt="n3mxarame-codearc" /></a> </p>
 
